@@ -22,14 +22,26 @@
 }
 
 .npt-enlarge-h:before {
-  content: "\e900";
+    content: "\e900";
 }
 .npt-enlarge-v:before {
-  content: "\e901";
+    content: "\e901";
+}
+.npt-marker-default:before {
+    content: "\e902";
+}
+.npt-marker-fix:before {
+    content: "\e903";
+}
+.npt-marker-point:before {
+    content: "\e904";
+}
+.npt-marker-zero:before {
+    content: "\e905";
 }
 .npt-reduce-h:before {
-  content: "\e902";
+    content: "\e906";
 }
 .npt-reduce-v:before {
-  content: "\e903";
+    content: "\e907";
 }
