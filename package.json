@@ -1,6 +1,6 @@
 {
   "_from": "@nptplatform/npticons",
-  "_id": "@nptplatform/npticons@1.0.0",
+  "_id": "@nptplatform/npticons@1.0.1",
   "_inBundle": false,
   "_integrity": "sha512-OuDvK0wmjF5n8n8ffY94VkemLrr3LwjuWKYmaZGeE72yZnfumpdYNl0sqVh8dfYBOImuNTWaEVqQ2tCnNTslgg==",
   "_location": "/@nptplatform/npticons",
@@ -20,7 +20,7 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/@nptplatform/npticons/-/npticons-1.0.0.tgz",
+  "_resolved": "https://registry.npmjs.org/@nptplatform/npticons/-/npticons-1.0.1.tgz",
   "_shasum": "5d9d394024a80e73baede9c5853a75428ab72cc5",
   "_spec": "@nptplatform/npticons",
   "_where": "D:\\npmPackages\\NptIcons",
@@ -50,5 +50,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
