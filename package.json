@@ -1,0 +1,54 @@
+{
+  "_from": "@nptplatform/npticons",
+  "_id": "@nptplatform/npticons@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-OuDvK0wmjF5n8n8ffY94VkemLrr3LwjuWKYmaZGeE72yZnfumpdYNl0sqVh8dfYBOImuNTWaEVqQ2tCnNTslgg==",
+  "_location": "/@nptplatform/npticons",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@nptplatform/npticons",
+    "name": "@nptplatform/npticons",
+    "escapedName": "@nptplatform%2fnpticons",
+    "scope": "@nptplatform",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@nptplatform/npticons/-/npticons-1.0.0.tgz",
+  "_shasum": "5d9d394024a80e73baede9c5853a75428ab72cc5",
+  "_spec": "@nptplatform/npticons",
+  "_where": "D:\\npmPackages\\NptIcons",
+  "author": {
+    "name": "A. Verteleckiy"
+  },
+  "bugs": {
+    "url": "https://github.com/ThisIsCreativ/NptIcons/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Icons for NptPlatform",
+  "homepage": "https://github.com/ThisIsCreativ/NptIcons#readme",
+  "keywords": [
+    "icon",
+    "font",
+    "svg",
+    "nptpatform"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "@nptplatform/npticons",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThisIsCreativ/NptIcons.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
