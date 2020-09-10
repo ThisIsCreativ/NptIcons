@@ -6,7 +6,7 @@
     font-style: normal;
 }
 
-[class^="npt-"], [class*=" npt-"] {
+[class^="npt-i-"], [class*=" npt-i-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'npt-icons' !important;
   speak: none;
@@ -21,27 +21,27 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.npt-enlarge-h:before {
+.npt-i-enlarge-h:before {
     content: "\e900";
 }
-.npt-enlarge-v:before {
+.npt-i-enlarge-v:before {
     content: "\e901";
 }
-.npt-marker-default:before {
+.npt-i-marker-default:before {
     content: "\e902";
 }
-.npt-marker-fix:before {
+.npt-i-marker-fix:before {
     content: "\e903";
 }
-.npt-marker-point:before {
+.npt-i-marker-point:before {
     content: "\e904";
 }
-.npt-marker-zero:before {
+.npt-i-marker-zero:before {
     content: "\e905";
 }
-.npt-reduce-h:before {
+.npt-i-reduce-h:before {
     content: "\e906";
 }
-.npt-reduce-v:before {
+.npt-i-reduce-v:before {
     content: "\e907";
 }
