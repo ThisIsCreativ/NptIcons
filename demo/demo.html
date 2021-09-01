@@ -1,62 +1,100 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <link rel="stylesheet" href="css/npt-icons.min.css" />
-    <link rel="stylesheet" href="css/demo.css" />
-    <script src="js/demo.js"></script>
+  <head>
+    <link rel="stylesheet" href="../css/npt-icons.min.css" />
+    <link rel="stylesheet" href="demo.css" />
+    <script src="demo.js"></script>
     <script>
-        var icons = [
-            "npt-i-enlarge-h",
-            "npt-i-reduce-h",
-            "npt-i-enlarge-v",
-            "npt-i-reduce-v",
-            "npt-i-marker-fix",
-            "npt-i-marker-default",
-            "npt-i-marker-point",
-            "npt-i-marker-zero",
-            "npt-i-eg-arrow",
-            "npt-i-eg-battery",
-            "npt-i-eg-breker",
-            "npt-i-eg-cabel",
-            "npt-i-eg-car",
-            "npt-i-eg-car-breker",
-            "npt-i-eg-CB",
-            "npt-i-eg-conv",
-            "npt-i-eg-CT",
-            "npt-i-eg-disconnector",
-            "npt-i-eg-efn",
-            "npt-i-eg-fan",
-            "npt-i-eg-generator",
-            "npt-i-eg-gil",
-            "npt-i-eg-ifl",
-            "npt-i-eg-motor",
-            "npt-i-eg-psh",
-            "npt-i-eg-reactor",
-            "npt-i-eg-res",
-            "npt-i-eg-roundknife",
-            "npt-i-eg-rrc",
-            "npt-i-eg-sar",
-            "npt-i-eg-scr",
-            "npt-i-eg-shina",
-            "npt-i-eg-smc",
-            "npt-i-eg-tcf",
-            "npt-i-eg-tcr",
-            "npt-i-eg-transformer-at3",
-            "npt-i-eg-transformer-at3-ltc",
-            "npt-i-eg-transformer-t2",
-            "npt-i-eg-transformer-t2-b",
-            "npt-i-eg-transformer-t2-b-ltc",
-            "npt-i-eg-transformer-t2-ltc",
-            "npt-i-eg-transformer-t3",
-            "npt-i-eg-transformer-t3-itc"
-        ];
-        document.addEventListener("DOMContentLoaded", function () {
-            addIcons(icons);
-        });
+      var icons = [
+        "npt-i-enlarge-h",
+        "npt-i-reduce-h",
+        "npt-i-enlarge-v",
+        "npt-i-reduce-v",
+        "npt-i-marker-fix",
+        "npt-i-marker-default",
+        "npt-i-marker-point",
+        "npt-i-marker-zero",
+        "npt-i-eg-arrow",
+        "npt-i-eg-battery",
+        "npt-i-eg-breaker",
+        "npt-i-eg-bus",
+        "npt-i-eg-cable",
+        "npt-i-eg-car",
+        "npt-i-eg-car-breaker",
+        "npt-i-eg-cb",
+        "npt-i-eg-cc",
+        "npt-i-eg-compensating-reactor",
+        "npt-i-eg-control-cooling-system",
+        "npt-i-eg-conv",
+        "npt-i-eg-cooling-system",
+        "npt-i-eg-copt",
+        "npt-i-eg-ct",
+        "npt-i-eg-current-transformer-phase",
+        "npt-i-eg-current-transformer-winding",
+        "npt-i-eg-disconnector",
+        "npt-i-eg-efn",
+        "npt-i-eg-fan",
+        "npt-i-eg-fgc",
+        "npt-i-eg-fgc-alter",
+        "npt-i-eg-gas-protection",
+        "npt-i-eg-generator",
+        "npt-i-eg-gil",
+        "npt-i-eg-high-frequency-choke",
+        "npt-i-eg-high-frequency-filter",
+        "npt-i-eg-high-frequency-setting-element",
+        "npt-i-eg-high-voltage-lead",
+        "npt-i-eg-ifl",
+        "npt-i-eg-mes",
+        "npt-i-eg-motor",
+        "npt-i-eg-oil-level",
+        "npt-i-eg-pmes",
+        "npt-i-eg-pmes-alter",
+        "npt-i-eg-potential-transformer-phase",
+        "npt-i-eg-potential-transformer-winding",
+        "npt-i-eg-power-transformer-end",
+        "npt-i-eg-psh",
+        "npt-i-eg-psh-ltc",
+        "npt-i-eg-psh-phase",
+        "npt-i-eg-reactor",
+        "npt-i-eg-reactor-twin",
+        "npt-i-eg-res",
+        "npt-i-eg-roundknife",
+        "npt-i-eg-rrc",
+        "npt-i-eg-sar",
+        "npt-i-eg-scr",
+        "npt-i-eg-sk",
+        "npt-i-eg-smc",
+        "npt-i-eg-tap-changer",
+        "npt-i-eg-tcf",
+        "npt-i-eg-tcr",
+        "npt-i-eg-technology-protection",
+        "npt-i-eg-temp-oil",
+        "npt-i-eg-transformer-at3",
+        "npt-i-eg-transformer-at3-ltc",
+        "npt-i-eg-transformer-t2",
+        "npt-i-eg-transformer-t2-b",
+        "npt-i-eg-transformer-t2-b-ltc",
+        "npt-i-eg-transformer-t2-ltc",
+        "npt-i-eg-transformer-t3",
+        "npt-i-eg-transformer-t3-itc",
+        "npt-i-eg-transformer-tank",
+        "npt-i-eg-transformer-th",
+        "npt-i-eg-water-gas-in-oil-control",
+        "npt-i-eg-winding-temperature-control",
+        "npt-i-electrical-unit",
+        "npt-i-level",
+        "npt-i-logical-node",
+        "npt-i-ps",
+        "npt-i-ru",
+        "npt-i-scheme",
+        "npt-i-scheme-lan",
+        "npt-i-vline"
+      ];
+      document.addEventListener("DOMContentLoaded", function () {
+        addIcons(icons);
+      });
     </script>
-</head>
+  </head>
 
-<body></body>
-
+  <body></body>
 </html>

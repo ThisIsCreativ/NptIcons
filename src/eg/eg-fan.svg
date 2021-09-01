@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 85 85"
+   version="1.1"
+   id="svg2"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   sodipodi:docname="eg-fan.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1865"
+     inkscape:window-height="955"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="1.9632612"
+     inkscape:cx="-66.725711"
+     inkscape:cy="42.531274"
+     inkscape:window-x="13"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2"
+     inkscape:pagecheckerboard="0" />
+  <g
+     id="g4134">
+    <path
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
+       d="m 42.5,-1.9980469 c -24.534449,0 -44.4980469,19.9635979 -44.4980469,44.4980469 0,24.534449 19.9635979,44.498047 44.4980469,44.498047 24.534449,0 44.498047,-19.963598 44.498047,-44.498047 0,-24.534449 -19.963598,-44.4980469 -44.498047,-44.4980469 z m 0,7 C 63.251372,5.0019531 79.998047,21.748628 79.998047,42.5 79.998047,63.251372 63.251372,79.998047 42.5,79.998047 21.748628,79.998047 5.0019531,63.251372 5.0019531,42.5 5.0019531,21.748628 21.748628,5.0019531 42.5,5.0019531 Z"
+       id="circle6" />
+    <path
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
+       d="M 43.886719,6.2792969 43.09375,12.322266 39.570312,39.148437 10.21875,51.771484 41.662109,76.988281 45.992187,44.005859 75.960937,31.119141 Z M 49.240234,19.277344 62.285156,29.380859 47.052734,35.931641 Z M 38.509766,47.224609 36.341797,63.746094 23.6875,53.599609 Z"
+       id="path8" />
+  </g>
+</svg>
