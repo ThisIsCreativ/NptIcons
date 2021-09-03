@@ -50,51 +50,50 @@
   <g
      id="g4190">
     <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;fill-opacity:1"
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
        d="m 40.884766,44.523437 -0.386719,27.16211 4,0.05664 0.384765,-27.162109 z"
        id="path6" />
     <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;fill-opacity:1"
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
        d="m 39.320312,26.693359 v 4 c 9.521823,0 17.894532,6.258757 17.894532,15.761719 0,4.895506 -1.613574,8.853541 -4.314453,11.621094 -2.70088,2.767553 -6.527005,4.40039 -11.271485,4.40039 -4.744479,0 -8.545692,-1.631454 -11.226562,-4.396484 -2.680871,-2.76503 -4.279297,-6.724474 -4.279297,-11.625 h -4 c 0,5.783892 1.941018,10.836142 5.40625,14.410156 3.465232,3.574015 8.41707,5.611328 14.099609,5.611328 5.682539,0 10.649317,-2.035931 14.134766,-5.607421 3.485449,-3.571491 5.451172,-8.625151 5.451172,-14.414063 0,-11.865882 -10.562317,-19.761719 -21.894532,-19.761719 z"
        id="path8" />
     <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;fill-opacity:1"
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
        d="m 44.847656,44.244141 -22.716797,0.002 0.002,4.054687 22.714844,-0.0039 z"
        id="path12" />
     <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;fill-opacity:1"
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
        d="m 26.425781,69.615234 v 4 h 32 v -4 z"
        id="path14" />
     <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;fill-opacity:1"
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
        d="m 30.425781,75.560547 v 4 h 24 v -4 z"
        id="path16" />
     <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;fill-opacity:1"
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
        d="m 36.925781,81.210937 v 4 h 11 v -4 z"
        id="path18" />
     <path
-       style="color:#000000;fill:#000000;-inkscape-stroke:none;fill-opacity:1"
+       style="color:#000000;fill:#000000;-inkscape-stroke:none"
        d="M 39.339844,0.0390625 V 28.460937 h 4 V 0.0390625 Z"
        id="path10" />
     <g
-       id="path4171"
-       style="fill:#000000;fill-opacity:1">
+       id="path4171">
       <path
-         style="color:#000000;fill:#000000;stroke-width:2.94346;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+         style="color:#000000;fill:#260a0a;stroke-width:2.94346;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
          d="m 42.777211,17.510593 a 1.5282713,1.5282713 0 0 1 -1.528271,1.528272 1.5282713,1.5282713 0 0 1 -1.528272,-1.528272 1.5282713,1.5282713 0 0 1 1.528272,-1.528271 1.5282713,1.5282713 0 0 1 1.528271,1.528271 z"
          id="path61" />
       <path
-         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none;fill-opacity:1"
+         style="color:#000000;fill:#000000;stroke-linecap:round;stroke-linejoin:round;-inkscape-stroke:none"
          d="m 41.248047,14.509766 c -1.639421,0 -3,1.360579 -3,3 0,1.63942 1.360579,3 3,3 1.63942,0 3,-1.36058 3,-3 0,-1.639421 -1.36058,-3 -3,-3 z m 0,2.943359 c 0.04866,0 0.05664,0.008 0.05664,0.05664 0,0.04866 -0.008,0.05664 -0.05664,0.05664 -0.04866,0 -0.05469,-0.008 -0.05469,-0.05664 0,-0.04866 0.006,-0.05664 0.05469,-0.05664 z"
          id="path63" />
     </g>
     <path
-       style="color:#000000;fill:#000000;fill-rule:evenodd;-inkscape-stroke:none;fill-opacity:1"
+       style="color:#000000;fill:#000000;fill-rule:evenodd;-inkscape-stroke:none"
        d="M 13.757813,0.32226563 V 8.9140625 L 40.5,19.558594 41.978516,15.841797 17.757812,6.2011719 V 0.32226563 Z"
        id="path4173" />
     <path
-       style="color:#000000;fill:#000000;fill-rule:evenodd;-inkscape-stroke:none;fill-opacity:1"
+       style="color:#000000;fill:#000000;fill-rule:evenodd;-inkscape-stroke:none"
        d="M 65.1875,0.18945312 V 6.0703125 L 40.966797,15.710938 42.445312,19.427734 69.1875,8.7832031 V 0.18945312 Z"
        id="path4173-2" />
   </g>
